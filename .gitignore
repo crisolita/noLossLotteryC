@@ -1,0 +1,7 @@
+node_modules
+# OpenZeppelin
+.openzeppelin/unknown-*.json
+#Hardhat files
+cache
+artifacts
+.env
